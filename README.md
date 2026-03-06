@@ -12,10 +12,9 @@
 </p>
 
 <p align="center">
-  <video src="https://github.com/YnotMax/---Albion-Online-Road-Script/raw/main/demo.mp4" width="800" controls="controls" muted="muted" loop="loop">
-    Seu navegador não suporta o player de video.
-  </video>
+  [![Demonstração do Script](https://github.com/YnotMax/---Albion-Online-Road-Script/raw/main/demo.mp4)](https://github.com/YnotMax/---Albion-Online-Road-Script/raw/main/demo.mp4)
 </p>
+
 
 ---
 
