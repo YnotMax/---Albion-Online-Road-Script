@@ -9,9 +9,11 @@
 
 <p align="center">
   <img src="Tela%20inicial.png" alt="Interface do Albion Road Script" width="800">
+</p>
+
 <p align="center">
-  <video src="demostração-.mp4" width="800" controls>
-    Seu navegador nao suporta o player de video.
+  <video src="https://github.com/YnotMax/---Albion-Online-Road-Script/raw/main/demo.mp4" width="800" controls="controls" muted="muted" loop="loop">
+    Seu navegador não suporta o player de video.
   </video>
 </p>
 
