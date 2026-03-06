@@ -12,8 +12,13 @@
 </p>
 
 <p align="center">
-  [![Demonstração do Script](https://github.com/YnotMax/---Albion-Online-Road-Script/raw/main/demo.mp4)](https://github.com/YnotMax/---Albion-Online-Road-Script/raw/main/demo.mp4)
+  <a href="https://youtu.be/mXauKUVRqSg" target="_blank">
+    <img src="https://img.youtube.com/vi/mXauKUVRqSg/maxresdefault.jpg" alt="Assista a Demonstração" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+    <br>
+    <b>Clique aqui para ver o Driver em ação no YouTube 🎬</b>
+  </a>
 </p>
+
 
 
 ---
