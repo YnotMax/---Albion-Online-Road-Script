@@ -98,22 +98,6 @@ python main.py
 - **`[F8]`** Inicia ou Para a Reprodução da macro selecionada na biblioteca.
 - **`[F10]`** **KEY DE EMERGÊNCIA**. Aperte a qualquer instante para matar instantaneamente qualquer automação ocorrendo.
 
----
-
-## 📦 Versão Linux (App Executável)
-
-Como o Windows não consegue gerar um executável Linux (`.elf`) nativamente, configuramos um sistema de **Nuvem (GitHub Actions)** para fazer isso por você:
-
-1.  **Faça Push** das alterações para o seu GitHub.
-2.  Vá na aba **"Actions"** do seu repositório no GitHub.
-3.  Clique no workflow **"Build Linux Executable"**.
-4.  Baixe o arquivo gerado (Artifact) chamado `AudioHD_Linux_App`.
-5.  No Linux, dê permissão de execução ao arquivo: `chmod +x AudioHD_Linux`.
-
-Ou, se preferir rodar via código fonte no Linux, utilize o script `bash install_and_run.sh` incluído no repositório.
-
----
-
 ## 👤 Autor
 
 Desenvolvido por **Tony Max da Silva Costa**.
